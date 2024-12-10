@@ -24,4 +24,7 @@ Este é um game de tiro simples desenvolvido em Python, onde o jogador controla 
     Implementar power-ups e habilidades para o jogador.
     Melhorar os gráficos e adicionar sons.
 
-    <img src=".github/game.png">
+<div>
+
+ <img src=".github/game.png">
+ </div>
